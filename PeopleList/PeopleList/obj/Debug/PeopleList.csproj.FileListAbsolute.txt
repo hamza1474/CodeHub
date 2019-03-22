@@ -1,0 +1,13 @@
+C:\Users\Ameer Hamza\source\repos\PeopleList\PeopleList\bin\Debug\PeopleList.exe.config
+C:\Users\Ameer Hamza\source\repos\PeopleList\PeopleList\bin\Debug\PeopleList.exe
+C:\Users\Ameer Hamza\source\repos\PeopleList\PeopleList\bin\Debug\PeopleList.pdb
+C:\Users\Ameer Hamza\source\repos\PeopleList\PeopleList\bin\Debug\Dapper.dll
+C:\Users\Ameer Hamza\source\repos\PeopleList\PeopleList\bin\Debug\Dapper.xml
+C:\Users\Ameer Hamza\source\repos\PeopleList\PeopleList\obj\Debug\PeopleList.csprojAssemblyReference.cache
+C:\Users\Ameer Hamza\source\repos\PeopleList\PeopleList\obj\Debug\PeopleList.Form1.resources
+C:\Users\Ameer Hamza\source\repos\PeopleList\PeopleList\obj\Debug\PeopleList.Properties.Resources.resources
+C:\Users\Ameer Hamza\source\repos\PeopleList\PeopleList\obj\Debug\PeopleList.csproj.GenerateResource.cache
+C:\Users\Ameer Hamza\source\repos\PeopleList\PeopleList\obj\Debug\PeopleList.csproj.CoreCompileInputs.cache
+C:\Users\Ameer Hamza\source\repos\PeopleList\PeopleList\obj\Debug\PeopleList.csproj.CopyComplete
+C:\Users\Ameer Hamza\source\repos\PeopleList\PeopleList\obj\Debug\PeopleList.exe
+C:\Users\Ameer Hamza\source\repos\PeopleList\PeopleList\obj\Debug\PeopleList.pdb
