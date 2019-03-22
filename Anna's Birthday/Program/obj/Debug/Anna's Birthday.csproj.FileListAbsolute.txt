@@ -1,0 +1,10 @@
+C:\Users\Ameer Hamza\source\repos\Anna's Birthday\bin\Debug\Anna's Birthday.exe.config
+C:\Users\Ameer Hamza\source\repos\Anna's Birthday\bin\Debug\Anna's Birthday.exe
+C:\Users\Ameer Hamza\source\repos\Anna's Birthday\bin\Debug\Anna's Birthday.pdb
+C:\Users\Ameer Hamza\source\repos\Anna's Birthday\obj\Debug\Anna's Birthday.csprojAssemblyReference.cache
+C:\Users\Ameer Hamza\source\repos\Anna's Birthday\obj\Debug\Anna_s_Birthday.Properties.Resources.resources
+C:\Users\Ameer Hamza\source\repos\Anna's Birthday\obj\Debug\Anna's Birthday.csproj.GenerateResource.cache
+C:\Users\Ameer Hamza\source\repos\Anna's Birthday\obj\Debug\Anna's Birthday.csproj.CoreCompileInputs.cache
+C:\Users\Ameer Hamza\source\repos\Anna's Birthday\obj\Debug\Anna's Birthday.exe
+C:\Users\Ameer Hamza\source\repos\Anna's Birthday\obj\Debug\Anna's Birthday.pdb
+C:\Users\Ameer Hamza\source\repos\Anna's Birthday\obj\Debug\Anna_s_Birthday.PurblePalace.resources
