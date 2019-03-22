@@ -1,0 +1,15 @@
+C:\Users\Ameer Hamza\source\repos\ATM Machine Software\bin\Debug\ATM Machine Software.exe.config
+C:\Users\Ameer Hamza\source\repos\ATM Machine Software\bin\Debug\ATM Machine Software.exe
+C:\Users\Ameer Hamza\source\repos\ATM Machine Software\bin\Debug\ATM Machine Software.pdb
+C:\Users\Ameer Hamza\source\repos\ATM Machine Software\obj\Debug\ATM Machine Software.csprojAssemblyReference.cache
+C:\Users\Ameer Hamza\source\repos\ATM Machine Software\obj\Debug\ATM_Machine_Software.Form1.resources
+C:\Users\Ameer Hamza\source\repos\ATM Machine Software\obj\Debug\ATM_Machine_Software.Properties.Resources.resources
+C:\Users\Ameer Hamza\source\repos\ATM Machine Software\obj\Debug\ATM Machine Software.csproj.GenerateResource.cache
+C:\Users\Ameer Hamza\source\repos\ATM Machine Software\obj\Debug\ATM Machine Software.csproj.CoreCompileInputs.cache
+C:\Users\Ameer Hamza\source\repos\ATM Machine Software\obj\Debug\ATM Machine Software.exe
+C:\Users\Ameer Hamza\source\repos\ATM Machine Software\obj\Debug\ATM Machine Software.pdb
+C:\Users\Ameer Hamza\source\repos\ATM Machine Software\obj\Debug\ATM_Machine_Software.EnterPin.resources
+C:\Users\Ameer Hamza\source\repos\ATM Machine Software\obj\Debug\ATM_Machine_Software.MainMenu.resources
+C:\Users\Ameer Hamza\source\repos\ATM Machine Software\obj\Debug\ATM_Machine_Software.Change_PIN.resources
+C:\Users\Ameer Hamza\source\repos\ATM Machine Software\obj\Debug\ATM_Machine_Software.Transaction.resources
+C:\Users\Ameer Hamza\source\repos\ATM Machine Software\obj\Debug\ATM_Machine_Software.Recent_Transactions.resources
