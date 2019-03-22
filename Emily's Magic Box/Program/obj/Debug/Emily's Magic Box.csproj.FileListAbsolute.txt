@@ -1,0 +1,11 @@
+C:\Users\Ameer Hamza\source\repos\Emily's Magic Box\bin\Debug\Emily's Magic Box.exe.config
+C:\Users\Ameer Hamza\source\repos\Emily's Magic Box\bin\Debug\Emily's Magic Box.exe
+C:\Users\Ameer Hamza\source\repos\Emily's Magic Box\bin\Debug\Emily's Magic Box.pdb
+C:\Users\Ameer Hamza\source\repos\Emily's Magic Box\obj\Debug\Emily's Magic Box.csprojAssemblyReference.cache
+C:\Users\Ameer Hamza\source\repos\Emily's Magic Box\obj\Debug\Emily_s_Magic_Box.Form1.resources
+C:\Users\Ameer Hamza\source\repos\Emily's Magic Box\obj\Debug\Emily_s_Magic_Box.Properties.Resources.resources
+C:\Users\Ameer Hamza\source\repos\Emily's Magic Box\obj\Debug\Emily's Magic Box.csproj.GenerateResource.cache
+C:\Users\Ameer Hamza\source\repos\Emily's Magic Box\obj\Debug\Emily's Magic Box.csproj.CoreCompileInputs.cache
+C:\Users\Ameer Hamza\source\repos\Emily's Magic Box\obj\Debug\Emily's Magic Box.exe
+C:\Users\Ameer Hamza\source\repos\Emily's Magic Box\obj\Debug\Emily's Magic Box.pdb
+C:\Users\Ameer Hamza\source\repos\Emily's Magic Box\obj\Debug\Emily_s_Magic_Box.Form2.resources
