@@ -1,0 +1,19 @@
+>>>> Amount 6500 creditted to account 1474 at 12/24/2018 7:27:35 PM <<<<
+>>>> Amount 9500 debitted from account 1474 at 12/24/2018 3:58:08 PM <<<<
+>>>> Amount 1000 debitted from account 1474 at 12/24/2018 3:57:57 PM <<<<
+>>>> Amount 500 debitted from account 1474 at 12/24/2018 3:57:51 PM <<<<
+>>>> Amount 500 debitted from account 1474 at 12/24/2018 3:49:24 PM <<<<
+>>>> Amount 500 debitted from account 1474 at 12/24/2018 3:49:21 PM <<<<
+>>>> Amount 500 debitted from account 1474 at 12/24/2018 3:49:18 PM <<<<
+>>>> Amount 500 debitted from account 1474 at 12/24/2018 3:49:14 PM <<<<
+
+
+
+
+
+
+
+
+
+
+
